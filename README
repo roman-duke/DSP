@@ -1,0 +1,3 @@
+This is a project about FILTER design
+
+    A certain input signal was given that had noise in it and I was to use an FIR Filter to denoise the signal. The signal was denoised and output was a clean sinusoidal wave of the input signal.
